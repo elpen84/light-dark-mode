@@ -47,6 +47,7 @@ h1 {
 h2 {
   font-size: 32px;
   font-weight: normal;
+  color: var(--on-background-alt);
 }
 
 /* Navigation */
